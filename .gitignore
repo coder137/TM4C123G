@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#Keil Specific Folders
+#Files
+*.uvoptx
+*.uvprojx
+
+#Folders
+**/Listings
+**/Objects
+**/RTE/Device
+**/RTE/_Target_1
