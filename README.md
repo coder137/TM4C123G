@@ -11,16 +11,20 @@ Tiva C Series TM4C123GH6PM Launchpad Code.
 Recreating examples with the FreeRTOS
 
 *NOTE: Default Folder contains FreeRTOSConfig.h file and mainTest.c file for
-testing with MCU
+testing with MCU*
 
-All the examples are built on top of the mainTest.c file*
+*All the examples are built on top of the mainTest.c file*
 
-#### Libs
+
+### Libs
 
  * `Serial.h`
     * Serial Communication library
 * `Utility.h`
     * Utility library commonly used functions
+
+
+### Example Programs
 
 * Blinky
     * Uses the default mainTest.c file to blink the led.
